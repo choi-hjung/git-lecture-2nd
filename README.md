@@ -1,1 +1,0 @@
-# git-lecture-2nd
